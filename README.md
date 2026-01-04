@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm pooja rani
 **A passionate Flutter Developer || app developer**
 
-Email Me 👉 ✉️ **manjaytechnical3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **poojarani@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Food delivery app 
 - 🌱 **I’m currently learning:**  Dart /aws cloud 
